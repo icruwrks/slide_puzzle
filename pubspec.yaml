@@ -16,8 +16,8 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   gap: ^2.0.0
-  google_fonts: ^2.1.0
-  intl: ^0.17.0
+  google_fonts: ^4.0.4
+  intl: ^0.18.0
   just_audio: ^0.9.18
   universal_platform: ^1.0.0+1
   url_launcher: ^6.0.17
